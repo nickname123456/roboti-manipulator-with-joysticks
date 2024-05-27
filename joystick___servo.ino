@@ -45,8 +45,8 @@ void setup() {
   servo2.attach(serv2);  
   servo3.attach(serv3);  
   servo4.attach(serv4);  
-  servo4.attach(serv5);  
-  servo4.attach(serv6);  
+  servo5.attach(serv5);  
+  servo6.attach(serv6);  
   
   pinMode(button, INPUT);
 }  
